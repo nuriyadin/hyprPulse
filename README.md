@@ -10,7 +10,7 @@ hyprPulse, an interactive brute force tool that can simultaneously attack multip
 
 ### Installation
 ```sh
-$ git clone https://github.com/Ethical-H4CK3R/hyprPulse
+$ git clone https://github.com/nuriyadin/hyprPulse
 $ cd hyprPulse
 $ chmod +x install.sh
 $ ./install.sh
